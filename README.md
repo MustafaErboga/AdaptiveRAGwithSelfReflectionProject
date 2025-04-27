@@ -25,7 +25,7 @@ This project introduces an advanced Retrieval-Augmented Generation (RAG) archite
 
 ## 🧠 System Diagram
 
-![System Diagram](insert-your-image-link-here)
+![System Diagram](C:\Users\LENOVO\PycharmProjects\CorrectiveRAGProject\graph.png)
 
 ---
 
