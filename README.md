@@ -20,13 +20,7 @@ This project introduces an advanced Retrieval-Augmented Generation (RAG) archite
 
 - **Optional Expansions:**  
   Framework design allows plugging in additional nodes (e.g., API queries, external databases) easily.
-
----
-
-## 🧠 System Diagram
-
-![System Diagram](C:\Users\LENOVO\PycharmProjects\CorrectiveRAGProject\graph.png)
-
+  
 ---
 
 ## ⚡ How It Works
